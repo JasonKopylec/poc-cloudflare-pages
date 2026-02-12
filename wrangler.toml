@@ -1,0 +1,5 @@
+name = "poc-cloudflare-pages"
+type = "javascript"
+
+[site]
+bucket = "."
