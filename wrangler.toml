@@ -1,5 +1,2 @@
 name = "poc-cloudflare-pages"
-type = "javascript"
-
-[site]
-bucket = "."
+pages_build_output_dir = "."
